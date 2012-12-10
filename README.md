@@ -7,4 +7,4 @@ Dependencies
 Usage
 =====
 
-python maasfs.py <mountpoint> <username> <token>
+    python maasfs.py <mountpoint> <username> <token>
